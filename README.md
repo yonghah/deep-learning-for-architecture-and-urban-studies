@@ -63,3 +63,6 @@ https://phillipi.github.io/pix2pix/
 
 - NIPS 2016 Tutorial: Generative Adversarial Networks
 https://arxiv.org/abs/1701.00160
+
+- Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space
+https://arxiv.org/abs/1612.00005
