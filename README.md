@@ -2,7 +2,7 @@
 awesome deep learning for scholars in architecture and urban studies
 
 
-### what is deep learning?
+### What is deep learning?
 - LeCun's Nature review
 Deep learning
 http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html
@@ -61,5 +61,5 @@ http://ieeexplore.ieee.org/document/7780634/
 - Image-to-Image Translation with Conditional Adversarial Nets
 https://phillipi.github.io/pix2pix/
 
-
-
+- NIPS 2016 Tutorial: Generative Adversarial Networks
+https://arxiv.org/abs/1701.00160
