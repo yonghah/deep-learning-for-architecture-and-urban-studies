@@ -27,6 +27,16 @@ http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wegner_Cataloging
 - Quantifying curb appeal
 http://ieeexplore.ieee.org/abstract/document/7533189/
 
+- The Cityscapes Dataset for Semantic Urban Scene Understanding
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.html
+
+- Visual Place Recognition: A Survey
+http://ieeexplore.ieee.org/abstract/document/7339473/
+
+- NetVLAD: CNN Architecture for Weakly Supervised Place Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.html
+
+
 
 #### architecture/indoor scale
 
