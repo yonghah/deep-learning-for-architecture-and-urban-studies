@@ -53,12 +53,13 @@ https://arxiv.org/abs/1612.01225
 http://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling
 
 
-### Artistic Style
+### Image
 
 - Image Style Transfer Using Convolutional Neural Networks
 http://ieeexplore.ieee.org/document/7780634/
 
-
+- Image-to-Image Translation with Conditional Adversarial Nets
+https://phillipi.github.io/pix2pix/
 
 
 
