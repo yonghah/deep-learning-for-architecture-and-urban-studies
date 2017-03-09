@@ -36,6 +36,8 @@ http://ieeexplore.ieee.org/abstract/document/7339473/
 - NetVLAD: CNN Architecture for Weakly Supervised Place Recognition
 http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.html
 
+- Place CNN
+http://places.csail.mit.edu/  http://places2.csail.mit.edu/
 
 
 ### Architecture/Indoor scale
