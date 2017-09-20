@@ -39,6 +39,8 @@ http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Arandjelovic_NetV
 - Place CNN
 http://places.csail.mit.edu/  http://places2.csail.mit.edu/
 
+- Using convolutional networks and satellite imagery to identify patterns in urban environments at a large scale
+https://arxiv.org/abs/1704.02965
 
 ### Architecture/Indoor scale
 
